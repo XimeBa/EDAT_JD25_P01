@@ -57,7 +57,6 @@ internal class Program
 
         Console.ReadKey();
 
-
         //& edad solo los numeros, &pers toda la direccion de memoria  
     }
 }
