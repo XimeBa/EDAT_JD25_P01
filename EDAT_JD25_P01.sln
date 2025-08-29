@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI.NumerosAleatorios", "UI.NumerosAleatorios\UI.NumerosAleatorios.csproj", "{A4193EE4-DB42-4C45-B2B8-657925DCB668}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncionesLambda", "FuncionesLambda\FuncionesLambda.csproj", "{24D7DCDB-147D-49F4-A6D5-A14581EC7454}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuncionesLambda", "FuncionesLambda\FuncionesLambda.csproj", "{24D7DCDB-147D-49F4-A6D5-A14581EC7454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplejidadAlgoritmos", "ComplejidadAlgoritmos\ComplejidadAlgoritmos.csproj", "{E51B702A-3729-4A47-BFB3-01E1DB4E3416}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{24D7DCDB-147D-49F4-A6D5-A14581EC7454}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24D7DCDB-147D-49F4-A6D5-A14581EC7454}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24D7DCDB-147D-49F4-A6D5-A14581EC7454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E51B702A-3729-4A47-BFB3-01E1DB4E3416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51B702A-3729-4A47-BFB3-01E1DB4E3416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51B702A-3729-4A47-BFB3-01E1DB4E3416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51B702A-3729-4A47-BFB3-01E1DB4E3416}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
